@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-login-68323": {
+      "hosting": {
+        "travelgram": [
+          "github-login-68323"
+        ]
+      }
+    }
+  }
+}
